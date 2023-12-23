@@ -1,13 +1,14 @@
 {
   "name": "edpt-dark-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Enryu's Dark Pulsar Theme",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    "dark"
   ],
-  "repository": "https://github.com/atom/edpt-dark-syntax",
+  "repository": "https://github.com/S1lverCr0w/edpt-dark-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
